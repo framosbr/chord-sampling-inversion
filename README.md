@@ -37,5 +37,5 @@ If you use this code in your research, please cite our paper:
   title={A Note on Exact Inversion Formulas for Recovering Diameter Distributions of Spherical Particles from Chord-Length Measurements},
   author={Koiller, J. and Ramos, F. and Zohren, S.},
   journal={},
-  year={2023}
+  year={2025}
 }
