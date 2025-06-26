@@ -22,11 +22,12 @@ Implementation of methods described in: "A Note on Exact Inversion Formulas for 
 
 ## Usage
 
-This repository contains a Jupyter notebook implementing exact inversion formulas for chord measurements. To use:
+This repository contains two Jupyter notebooks implementing exact inversion formulas for chord measurements. To use:
 
 1. Clone this repository
 2. Install the required dependencies: `numpy`, `scipy`, `matplotlib`
 3. Open and run the notebook: `jupyter notebook chord_sampling.ipynb`
+4. Open and run the notebook: `Comparison_Exact_Bayesian.ipynb`
 
 ## Citation
 
@@ -36,6 +37,6 @@ If you use this code in your research, please cite our paper:
 @article{koiller2023exact,
   title={A Note on Exact Inversion Formulas for Recovering Diameter Distributions of Spherical Particles from Chord-Length Measurements},
   author={Koiller, J. and Ramos, F. and Zohren, S.},
-  journal={},
+  journal={submitted (to be updated)},
   year={2025}
 }
